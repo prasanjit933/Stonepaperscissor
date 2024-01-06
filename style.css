@@ -43,12 +43,16 @@ img{
     justify-content: center;
     align-items: center;
     font-size: 2rem;
+    margin-top: 3rem;
+    gap: 5rem;
+    
 
  }
 
  #userscore,
  #compscore{
 font-size: 4rem;
+
  }
  .message{
     margin-top: 5rem ;
