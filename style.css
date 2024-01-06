@@ -36,4 +36,30 @@ img{
     align-items: center;
     gap: 3 rem;
     margin-top: 5rem;
+    gap: 5rem;
 }
+ .scoreboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+
+ }
+
+ #userscore,
+ #compscore{
+font-size: 4rem;
+ }
+ .message{
+    margin-top: 5rem ;
+    
+ }
+ #msg{
+    margin-top: 5rem;
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius:  1rem;
+ }
